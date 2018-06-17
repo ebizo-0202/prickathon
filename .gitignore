@@ -1,1 +1,4 @@
 .python-version
+*.mov
+lbpcascade_animeface.xml
+*.jpg
